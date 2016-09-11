@@ -13,7 +13,7 @@ npm install -g npm-checker-cli
 ## Usage
 
 ```
-$ npm-checker-cli http-fetcher
+$ npm-checker http-fetcher
 
 ⠦ Processing request
 Package found !
