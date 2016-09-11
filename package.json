@@ -1,6 +1,6 @@
 {
   "name": "npm-checker-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI for checking packages exist on npmjs.com",
   "bin": {
     "npm-checker": "index.js"
