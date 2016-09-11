@@ -1,0 +1,37 @@
+{
+  "name": "npm-checker-cli",
+  "version": "0.0.0",
+  "description": "CLI for checking packages exist on npmjs.com",
+  "bin": {
+    "npm-checker": "index.js"
+  },
+  "scripts": {
+    "test": "mocha --timeout=35000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajikaimal/npm-checker-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "npm-checker"
+  ],
+  "author": "rajikaimal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajikaimal/npm-checker-cli/issues"
+  },
+  "homepage": "https://github.com/rajikaimal/npm-checker-cli#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.5.0",
+    "eslint-config-google": "^0.6.0",
+    "execa": "^0.4.0",
+    "mocha": "^3.0.2",
+    "shelljs": "^0.7.4"
+  },
+  "dependencies": {
+    "npm-checker": "^1.1.0",
+    "ora": "^0.3.0"
+  }
+}
