@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const npmChecker = require('npm-checker');
 const ora = require('ora');
 
