@@ -31,6 +31,7 @@ setTimeout(() => {
 			spinner.text = 'Package found !';
 			spinner.succeed();
 			console.log(`Package : ${packageName}`);
+			const repository = res.repository !== undefined ? "N/A" : res.repository;
 			console.log(`Repository URI : ${res.repository}`);
 		})
 		.catch(err => {
