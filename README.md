@@ -1,4 +1,4 @@
-# npm-checker-cli [![Build Status](https://travis-ci.org/rajikaimal/npm-checker-cli.svg?branch=master)](https://travis-ci.org/rajikaimal/npm-checker-cli)
+# npm-checker-cli [![Build Status](https://travis-ci.org/rajikaimal/npm-checker-cli.svg?branch=master)](https://travis-ci.org/rajikaimal/npm-checker-cli) [![Greenkeeper badge](https://badges.greenkeeper.io/rajikaimal/npm-checker-cli.svg)](https://greenkeeper.io/)
 
 CLI for [npm-checker](https://github.com/rajikaimal/npm-checker)
 
